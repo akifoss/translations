@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: Геномный анализ распространения COVID-19. Ситуационный отчет 2020-04-03.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -21,9 +21,9 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
 translatorLinks:
-date: "2020 April 03"
+date: "3 Апреля 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Этот отчет использует общедоступные геномные данные для отслеживания распространения COVID-19. Отчеты обновляются еженедельно."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,16 +31,16 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [Содержание](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Справочные ресурсы](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [Заметка о сборе образцов](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [Последние данные по Африке](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [Последние данные по Азии](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [Последние данные по Европе](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [Последние данные по Северной Америке](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [Что вы можете предпринять](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [Благодарности](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
