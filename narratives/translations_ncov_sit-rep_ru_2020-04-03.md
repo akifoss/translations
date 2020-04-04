@@ -44,30 +44,30 @@ abstract: "Этот отчет использует общедоступные �
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Резюме
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+Мы провели анализ 2,544 общедоступных геномов hCoV-19. Сопоставив эти геномы вируса между собой, мы можем охарактеризовать, как COVID-19 перемещается по всему миру и распространяется в общинах. В обновлениях этой недели мы сообщаем:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**Африка**  
+* Признаки не менее двух разных цепочек передач циркулирующих локально в Сенегале
+* Продолжающееся локальное распространение в Демократической Республике Конго
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**Aзия**  
+* Недавние внедрения вируса в Японии связаны с круизными лайнером
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+**Европа**  
+* Обширное секвенирование в Исландии демонстрирует степень распространения вируса связанного с путешествиями
+* Истории путешествий предпологают локальную передачу вируса в Австрии
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**Северная Америка**   
+* Обширное смешивание по всей территории в США
+* Вероятно, две локальные цепочки передач циркулируют в Онтарио
 
-**Other areas of the world**
+**Другие части мира**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+Мы также получили новые геномы вируса из Южной Америки и Океании. Большинство этих новых образцов разбросаны по дереву и сгруппированы с образцами, собранными в других регионах мира. Однако без дополнительных контекстных данных, мы пока не можем сделать выводы об этих новых последовательностях.
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+Мы приветствуем группы, работающие над дополнительными данными для этих регионов. Когда станeт возможным сделать более конкретные выводы, мы немедленно поделимся ими.
 ```
 
 
