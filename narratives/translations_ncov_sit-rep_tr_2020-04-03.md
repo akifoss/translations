@@ -49,11 +49,11 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 Burada, halka açık olarak paylaşılan 2,544 COVID-19 genom dizisini analiz ettik. Bu viral genomları karşılaştırarak COVID-19'un dünya üzerinde nasıl yayıldığını karakterize edebiliriz. Bu haftanın rapor güncellemesinde:
 
 
-**Afrika***
+**Afrika**
 * Senegal'de en az iki farklı bulaşım zincirinin dolaşımda olduğuna ve
 * Kongo Demokratik Cumhuriyeti'ndeki yerel salgının devam ettiğine dair kanıtları sunuyoruz.
 
-** Asya **
+**Asya**
 
 Japonya'ya gerçekleşen yakın tarihli virüs girişleri kruvaziyer gemi ilişkililer.
 
@@ -64,6 +64,8 @@ Japonya'ya gerçekleşen yakın tarihli virüs girişleri kruvaziyer gemi ilişk
 **Kuzey Amerika**
 * A.B.D çapındaki örneklerde geniş kapsamlı bir karışım görülmekte.
 * Yüksek ihtimal ile Ontario'da iki yerel bulaşma zinciri dolaşım halinde.
+
+
 
 
 
