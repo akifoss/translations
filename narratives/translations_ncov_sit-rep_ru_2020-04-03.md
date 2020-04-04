@@ -117,8 +117,6 @@ abstract: "Этот отчет использует общедоступные �
 <br><br>
 Хотя эти данные позволяют нам предсказывать многие важные характеристики вспышки и отслеживать ее распространение в реальном времени, важно подчеркнуть, что наши выводы ограничиваются доступными данными.
 <br><br>
-For example, the map shows relatively few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
-
 Например, карта показывает очень немногочисленные последовательности с южной части мира. Причина состоит НЕ в том, что COVID-19 не циркулирует в этих местностях, или в том, что эти случаи неважны для понимания, мы попросту не обладаем большим количеством данных из этих регионов. Размер каждого круга на карте отображает сколько данных доступно из этой местности, а не реальный размер вспышки. 
 <!-- There is NO right-side text -->
 
@@ -126,30 +124,30 @@ For example, the map shows relatively few sequences from the global south. This 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [Последние данные по Африке](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+На этой недели у нас есть обновленные данные по ситуации в Сенегале и Демократической Республике Конго.
+Важно отметить, что это не значит, что случаи заражения COVID-19 отсутствуют в других частях Африки; просто только для этих двух регионов у нас есть достаточно данных, чтобы начать делать выводы.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [Две локальные цепи передач, циркулирующие в Сенегале](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+Здесь мы видим два кластера случаев из Сенегал. Эти кластеры не группируются вместе, что говорит о том, что они появились в результате как минимум двух отдельных внедрений. Каждый из этих кластеров состоит из тесно связанных случаев, отобранных за короткий период времени, что согласуется с локальной передачей. 
 <br><br>
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
+Кластер, показанный на вершине дерева, состоит из образцов, собранных в городе Дакар между 28 февраля и 4 марта. 
+Это говорит о том, что hCov-19, вероятно, локально цирцулирует в Дакар уже, как минимум, на протяжение месяца. 
 <br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+В центре дерева мы видим кластер образцов, собранных в городе Туба между 10 и 12 марта. 
+Это говорит о том, что hCov-19 может циркулировать в Туба около 3 недель.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [Продолжающаяся локальная передача в ДР Конго](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+На этой неделе мы получили 8 новых геномных последовательностей из Киншаса в Демократической Республике Конго. 
 <br><br>
 All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
 This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
