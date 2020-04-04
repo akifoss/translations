@@ -1,5 +1,5 @@
 ---
-title: COVID-19 salgınının genomik analizi. 03 Nisan 2020 tarihli durum raporu..
+title: COVID-19 salgınının genomik analizi. 03 Nisan 2020 tarihli durum raporu.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
