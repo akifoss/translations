@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: COVID-19 salgınının genomik analizi. 03 Nisan 2020 tarihli durum raporu..
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -19,11 +19,11 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Eren Ada
+translatorLinks: twitter.com/erenada
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik dizi verileri kullanır. Raporlar haftalık olarak güncellenmektedir."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,37 +31,41 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# ["İçindekiler"](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Arka plan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [Örneklem hakkında bir not](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [Afrika'dan güncellemeler](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [Asya'dan güncellemeler](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [Avrupa'dan güncellemeler](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [Kuzey Amerika'dan güncellemeler](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [Bilimel Katkılar](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Yönetici Özeti
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+Burada, halka açık olarak paylaşılan 2,544 COVID-19 genom dizisini analiz ettik. Bu viral genomları karşılaştırarak COVID-19'un dünya üzerinde nasıl yayıldığını karakterize edebiliriz. Bu haftanın rapor güncellemesinde:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**Afrika***
+* Senegal'de en az iki farklı bulaşım zincirinin dolaşımda olduğuna ve
+* Kongo Demokratik Cumhuriyeti'ndeki yerel salgının devam ettiğine dair kanıtları sunuyoruz.
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+** Asya **
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+Japonya'ya gerçekleşen yakın tarihli virüs girişleri kruvaziyer gemi ilişkililer.
+
+**Avrupa**
+* İzlanda'daki geniş kapsamlı dizileme çalışmaları seyahat ilişkili yayılımın boyutunu ortaya seriyor.
+* Seyahat geçmişi verileri Avusturya'da yerel salgına işaret ediyor.
+
+**Kuzey Amerika**
+* A.B.D çapındaki örneklerde geniş kapsamlı bir karışım görülmekte.
+* Yüksek ihtimal ile Ontario'da iki yerel bulaşma zinciri dolaşım halinde.
+
+
 
 **Other areas of the world**
 <br>
@@ -74,37 +78,37 @@ We applaud the groups working to generate additional data for these regions. As 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [COVID-19 Kaynakları](https://nextstrain.org/ncov/2020-03-27)
+COVID-19 ve buna neden olan SARS-CoV-2 virüsünü (diğer bir adıyla hCov-19) tanımak için okumaya değer bazı kaynaklar hazırladık. Bu bilgi, bu açıklamada sunduğumuz verilerin yorumlanmasını kolaylaştıracaktır.
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+Filogenetik ağaçlara aşina değilseniz, ['Filogenetik ağaçları nasıl yorumlamalı?'](hhttps://nextstrain.org/narratives/trees-background/tr)metnini okuyup, hazır olduğunuzda buraya geri dönmenizi öneririz.
+
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Nextstrain Kaynakları  
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[Filogenetik ağaçları nasıl yorumlamalı?] (https://nextstrain.org/narratives/trees-background/).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[Koronavirüslerin arkaplanı](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Güncel hCoV-19 salgınının arka planı](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
 [FAQs](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Ortak yanlış kanılar](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## İlave Kaynaklar  
+[Dünya Sağlık Örgütü Raporları](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[CDC Kaynakları](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[New York Times COVID-19 yayını](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[Verilerle dünyamız](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[Bir bilim insanına Sorun & FAQs.](https://covid19.fas.org/l/en).
 
 
 ```
