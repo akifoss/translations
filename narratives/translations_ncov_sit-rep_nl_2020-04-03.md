@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: Genomische analyse van COVID-19 verspreiding. Situatierapportage 2020-04-03.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -20,10 +20,12 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Jisca Huisman
 translatorLinks:
+  - https://twitter.com/HuismanJisca
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Deze rapportage maakt gebruik van openbaar gedeelde genomische data om zo de verspreiding van COVID-19 te volgen. Deze rapportages worden wekelijks bijgewerkt."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,43 +33,44 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [Inhoudsopgave](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Achtergrondinformatie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [Een opmerking over bemonstering](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [Updates voor Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [Updates voor Azië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [Updates voor Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [Updates voor Noord-Amerika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [Wat u kunt doen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [Wetenschappelijk dankwoord](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Samenvatting
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+In deze rapportage hebben we 2.544 publiekelijk gedeelde COVID-19 genomen geanalyseerd. Door deze virus genomen met elkaar te vergelijken, kunnen we karakteriseren hoe COVID-19 zich ontwikkelt en over de hele wereld verspreidt. In de updates van deze week rapporteren we:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**Afrika**  
+* Bewijs dat ten minste twee verschillende transmissieketens lokaal in Senegal circuleren
+* Voortgaande lokale verspreiding in de Democratische Republiek Congo 
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**Azië**  
+* Recente introducties in Japan zijn geassocieerd met cruiseschepen
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+**Europa**  
+* Uitgebreide sequencing door IJsland toont de mate van reisgerelateerde verspreiding
+* Reisgeschiedenissen suggereren lokale transmissie in Oostenrijk
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**Noord-Amerika**   
+* Uitgebreide vermenging in de V.S. 
+* Waarschijnlijk circuleren twee lokale transmissieketens in Ontario  
 
-**Other areas of the world**
+**Andere delen van de wereld**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
-<br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+We hebben ook nieuwe virale genomen ontvangen uit Zuid-Amerika en Oceanië. De meeste van deze nieuwe monsters zijn verspreid over de boom en groeperen met monsters die in andere delen van de wereld zijn verzameld. Zonder meer contextuele gegevens kunnen we echter nog geen conclusies trekken over deze nieuwe sequenties.
+<br> <br>
+We juichen de groepen toe die werken aan het genereren van aanvullende gegevens voor deze regio's. Als meer specifieke gevolgtrekkingen mogelijk worden, zullen we die bevindingen onmiddellijk delen.
+
 ```
 
 
@@ -82,29 +85,29 @@ If you aren't familiar with phylogenetic trees, we encourage you to check out th
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Nextstrain Bronnen  
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[Hoe kan ik fylogenieën lezen](https://nextstrain.org/narratives/trees-background/nl/).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[Achtergrondinformatie over Coronavirussen (Engels)](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Achtergrondinformatie over de huidige hCoV-19 uitbraak (Engels)](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[FAQs](https://nextstrain.org/help/coronavirus/FAQ).
+[FAQs (Engels)](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Veelvoorkomende misvattingen (Engels)](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## Externe Bronnen  
+[WHO Situatierapportages (Engels)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[CDC Bronnen (Engels)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[De NYTimes COVID-19 artikelen (Engels)](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[Onze wereld in data (Engels)](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[Vraag het een Wetenschapper & FAQs (Engels)](https://covid19.fas.org/l/en).
 
 
 ```
@@ -112,12 +115,12 @@ If you aren't familiar with phylogenetic trees, we encourage you to check out th
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 53 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Een opmerking over bemonstering](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
+We hebben momenteel sequenties van monsters die genomen zijn in 53 landen op 6 continenten. Dit is een ongelooflijke prestatie -- het sequencen van een onbekend, groot RNA-virus tijdens een pandemie is moeilijk, en is alleen mogelijk door het ongelooflijke werk en het tijdig delen van gegevens door wetenschappers en artsen over de hele wereld.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Hoewel deze gegevens ons in staat stellen om veel nuttige kenmerken van de uitbraak af te leiden en de verspreiding ervan in real-time te volgen, is het belangrijk om te benadrukken dat onze conclusies beperkt zijn door de beschikbare gegevens.
 <br><br>
-For example, the map shows relatively few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+De kaart laat bijvoorbeeld weinig sequenties uit het globale zuiden zien. Dit is NIET omdat COVID-19 niet in deze gebieden circuleert, of dat deze besmettingen niet net zo cruciaal zijn om te begrijpen. In tegenstelling, we hebben simpelweg niet zoveel data beschikbaar vanuit deze gebieden. De grootte van iedere cirkel op de kaart geeft dan ook aan hoeveel data er beschikbaar is vanuit die regio, in plaats van de grootte van de uitbraak.
 
 <!-- There is NO right-side text -->
 
@@ -125,50 +128,51 @@ For example, the map shows relatively few sequences from the global south. This 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [Updates over Afrika](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+We hebben deze week updates voor Senegal en de Democratische Republiek Congo.
+Belangrijk is echter dat dit niet betekent dat er elders in Afrika geen gevallen van COVID-19 zijn; dit is alleen waar we genoeg gegevens hebben om conclusies te trekken.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [Twee lokale transmissieketens circuleren in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
-<br><br>
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
-<br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+Hier zien we twee clusters van gevallen uit Senegal. Deze clusters groepen niet samen, wat aangeeft dat ze het resultaat waren van ten minste twee afzonderlijke introducties. Elk van deze clusters bestaat uit nauw verwante gevallen die in een korte periode zijn bemonsterd, in overeenstemming met lokale transmissie.
+<br> <br>
+De cluster die bovenin de boom wordt getoond, bestaat uit gevallen die tussen 28 februari en 4 maart in Dakar zijn bemonsterd.
+Dit suggereert dat hCoV-19 waarschijnlijk al minstens 1 maand lokaal in Dakar circuleert.
+<br> <br>
+In het midden van de boom is tussen 10 maart en 12 maart een cluster van gevallen bemonsterd in Touba.
+Dit suggereert dat hCoV-19 al ongeveer 3 weken in Touba zou kunnen circuleren.
+
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [Voortgaande lokale verscpreiding in DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+We kregen deze week 8 nieuwe genomen binnen van Kinshasa in de Democratische Republiek Congo.
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
-
+Op één na alle nieuwe monsters groeperen binnen de lokale uitbraakclades die [we vorige week rapporteerden] (https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Dit toont aan dat er binnen de DRC voortgaande lokale transmissie plaatsvindt, en dat er snel actie moet worden ondernomen om de uitbraak te bedwingen.
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Updates voor Azië](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Recente introducties in Japan zijn geassocieerd met cruiseschepen](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
-<br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+Van de 16 recente sequenties die uit Japan zijn toegevoegd, hebben er 10 reisgeschiedenis aan boord van een cruise op de Nijl. Nadat ze in Japan zijn gediagnosticeerd en bemonsterd, verdelen alle 16 sequenties zich over twee clusters. Interessant is dat deze clusters niet linken met andere Japanse of Aziatische sequenties, maar binnen clusters vallen die voornamelijk in de VS en Europa voorkomen.
+<br> <br>
+Het lijkt er dus op dat deze Japanse reizigers zijn besmet door virusstammen die ze tegenkwamen van Europeanen en Amerikanen die Egypte bezochten. Aangezien sequenties half maart werden bemonsterd, nadat reizigers naar Japan waren teruggekeerd, is dit een bewijs dat varianten die voornamelijk in Europa en de VS circuleerden begin maart via wereldwijde reizen over de hele wereld werden geëxporteerd.
+
 <!-- There is no right side text -->
 
 
@@ -176,20 +180,21 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [Updates voor Europa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [Uitgebreide sequencing door IJsland toont de mate van reisgerelateerde verspreiding](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
-<br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
-<br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+We hebben onlangs 301 sequenties ontvangen -- van 25\% van de [bevestigde gevallen] (https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) -- uit IJsland.
+<br> <br>
+Als we elk monster kleuren op basis van de geregistreerde reisgeschiedenis, zien we dat ongeveer de helft van deze infecties buiten IJsland is opgelopen, terwijl de helft wordt verondersteld plaatselijk verworven infecties te hebben (grijs weergegeven).
+<br> <br>
+Zoals we [vorige week meldden] (https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), laat dit zien hoeveel vermenging er is tussen de uitbraken in elk Europees land.
+Voor elk monster kunnen we conclusies trekken over waar zijn voorgangers moeten zijn geweest, maar we kunnen de mogelijkheid van indirecte transmissie via een niet-bemonsterde locatie niet uitsluiten.
+ 
 <!-- There is no right side text -->
 
 
